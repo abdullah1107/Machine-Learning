@@ -7,3 +7,7 @@ Data.csv
 ``` 
 file then we configure the messing data then  encoding the independent and dependent variable
 ```y = f(X)```
+## Regression:
+- Simple Liner Regression
+- Multiple Linear Regression
+- Polynomial Regression
