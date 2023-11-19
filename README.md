@@ -1,4 +1,4 @@
-# Machine Learning A-Z using python Udemy
+# Machine Learning
 
 ## Data preprocessing:
 In this step make the data for operation. First read the data from 
